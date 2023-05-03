@@ -13,6 +13,7 @@ router.get('/', async (req, res) => {
   }
 });
 
+//This get returns a specific category with its associated Product data
 router.get('/:id', async(req, res) => {
   try{
     const categoryData = await Category.findByPk(req.params.id, {
