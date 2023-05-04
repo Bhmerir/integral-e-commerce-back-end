@@ -108,10 +108,10 @@ This is a link to a video which instructs the users on how to work with software
 | -------------           |
 | JavaScript              |  
 | Node.js                 |  
-| express.js              |
+| Express.js              |
 | MySQL2 Module           | 
 | Sequelize Module        | 
-| dotenv Module           |
+| Dotenv Module           |
 
 
 <br>
